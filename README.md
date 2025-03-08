@@ -66,7 +66,5 @@ Got an idea or collab in mind? Slide into my DMs—I’m all ears (and code)!
 
 ---
 
-*Thanks for swinging by! Let’s build something epic together.*  
-<div align="center">
-  ![Code GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
-</div>
+*Thanks for dropping by! Let’s build something awesome together.*  
+![Code GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
