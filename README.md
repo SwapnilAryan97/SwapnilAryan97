@@ -1,4 +1,4 @@
-# Hey, I’m Swapnil Aryan! 🚀
+# Hey, I’m Swapnil Sinha! 🚀
 
 ![Profile Banner](https://media.giphy.com/media/OkJat1YNdoD3W/giphy.gif)  
 *Code. Create. Innovate. Have fun!*
