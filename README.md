@@ -3,6 +3,12 @@
 ![Profile Banner](https://media.giphy.com/media/OkJat1YNdoD3W/giphy.gif)  
 *Code. Create. Innovate. Have fun!*
 
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=SwapnilAryan97&color=blueviolet&style=flat-square&label=Profile+Views)
+
+</div>
+
 I'm a curious coder who loves turning caffeine into code and dreaming up creative solutions. Welcome to my GitHub playground where innovation meets a dash of humor!
 
 ---
@@ -27,10 +33,24 @@ I'm a curious coder who loves turning caffeine into code and dreaming up creativ
 ## 📈 GitHub Insights
 
 Check out a snapshot of my coding adventures! (Stats update every 4 hours—tech magic takes time!)  
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SwapnilAryan97&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwapnilAryan97&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages"/>
+
+<div align="center">
+  
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SwapnilAryan97&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=Swapnil's%20GitHub%20Stats)
+
+### 🔥 Contribution Streak  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SwapnilAryan97&theme=radical&hide_border=true)
+
+### 💻 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SwapnilAryan97&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SwapnilAryan97&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4)
+
+### 📈 Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SwapnilAryan97&theme=react-dark&hide_border=true)
+
 </div>
 
 ---
