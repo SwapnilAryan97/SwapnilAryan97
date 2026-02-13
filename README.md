@@ -37,19 +37,19 @@ Check out a snapshot of my coding adventures! (Stats update every 4 hours—tech
 <div align="center">
   
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SwapnilAryan97&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=Swapnil's%20GitHub%20Stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SwapnilAryan97&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=Swapnil's%20GitHub%20Stats)](https://github.com/SwapnilAryan97)
 
 ### 🔥 Contribution Streak  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SwapnilAryan97&theme=radical&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SwapnilAryan97&theme=radical&hide_border=true)](https://github.com/SwapnilAryan97)
 
 ### 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SwapnilAryan97&layout=compact&theme=radical&hide_border=true&langs_count=8)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SwapnilAryan97&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/SwapnilAryan97)
 
 ### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SwapnilAryan97&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SwapnilAryan97&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4)](https://github.com/SwapnilAryan97)
 
 ### 📈 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SwapnilAryan97&theme=react-dark&hide_border=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SwapnilAryan97&theme=react-dark&hide_border=true&area=true)](https://github.com/SwapnilAryan97)
 
 </div>
 
@@ -88,3 +88,9 @@ Got an idea or collab in mind? Slide into my DMs—I’m all ears (and code)!
 
 *Thanks for dropping by! Let’s build something awesome together.*  
 ![Code GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+
+---
+
+## 📌 Pinned Repositories
+
+Check out some of my favorite projects! ⬇️
