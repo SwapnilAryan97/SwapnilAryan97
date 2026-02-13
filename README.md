@@ -3,6 +3,12 @@
 ![Profile Banner](https://media.giphy.com/media/OkJat1YNdoD3W/giphy.gif)  
 *Code. Create. Innovate. Have fun!*
 
+<div align="center">
+
+![Profile view counter showing total visits](https://komarev.com/ghpvc/?username=SwapnilAryan97&color=blueviolet&style=flat-square&label=Profile+Views)
+
+</div>
+
 I'm a curious coder who loves turning caffeine into code and dreaming up creative solutions. Welcome to my GitHub playground where innovation meets a dash of humor!
 
 ---
@@ -27,10 +33,24 @@ I'm a curious coder who loves turning caffeine into code and dreaming up creativ
 ## 📈 GitHub Insights
 
 Check out a snapshot of my coding adventures! (Stats update every 4 hours—tech magic takes time!)  
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SwapnilAryan97&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwapnilAryan97&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages"/>
+
+<div align="center">
+  
+### 📊 GitHub Stats
+[![Swapnil's GitHub statistics showing commits, PRs, and contributions](https://github-readme-stats.vercel.app/api?username=SwapnilAryan97&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=Swapnil's%20GitHub%20Stats)](https://github.com/SwapnilAryan97)
+
+### 🔥 Contribution Streak  
+[![GitHub contribution streak statistics](https://streak-stats.demolab.com/?user=SwapnilAryan97&theme=radical&hide_border=true)](https://github.com/SwapnilAryan97)
+
+### 💻 Most Used Languages
+[![Chart showing most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SwapnilAryan97&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/SwapnilAryan97)
+
+### 🏆 GitHub Trophies
+[![GitHub achievement trophies and badges](https://github-profile-trophy.vercel.app/?username=SwapnilAryan97&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4)](https://github.com/SwapnilAryan97)
+
+### 📈 Contribution Graph
+[![Contribution activity graph showing commit patterns over time](https://github-readme-activity-graph.vercel.app/graph?username=SwapnilAryan97&theme=react-dark&hide_border=true&area=true)](https://github.com/SwapnilAryan97)
+
 </div>
 
 ---
@@ -53,7 +73,7 @@ Got an idea or collab in mind? Slide into my DMs—I’m all ears (and code)!
 ## ✨ A Bit About Me
 
 - **Forever Curious:** I’m always on the hunt for new tech trends and coding hacks.  
-- **Side Quests:** When I’m not geeking out over code, you might find me [insert your hobby—e.g., gaming, hiking, binging sci-fi].  
+- **Side Quests:** When I'm not geeking out over code, you might find me playing football ⚽, solving Rubik's cubes 🧩, swimming 🏊, jogging 🏃, listening to music 🎵, or playing with my pets 🐾.  
 - **Code Mantra:** *"Simplicity is the soul of efficiency."* – A mantra to keep things fun and functional.
 
 ---
@@ -68,3 +88,9 @@ Got an idea or collab in mind? Slide into my DMs—I’m all ears (and code)!
 
 *Thanks for dropping by! Let’s build something awesome together.*  
 ![Code GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+
+---
+
+## 📌 Pinned Repositories
+
+Check out some of my favorite projects! ⬇️
