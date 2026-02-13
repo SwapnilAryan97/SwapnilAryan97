@@ -73,7 +73,7 @@ Got an idea or collab in mind? Slide into my DMs—I’m all ears (and code)!
 ## ✨ A Bit About Me
 
 - **Forever Curious:** I’m always on the hunt for new tech trends and coding hacks.  
-- **Side Quests:** When I’m not geeking out over code, you might find me [insert your hobby—e.g., gaming, hiking, binging sci-fi].  
+- **Side Quests:** When I'm not geeking out over code, you might find me playing football ⚽, solving Rubik's cubes 🧩, swimming 🏊, jogging 🏃, listening to music 🎵, or playing with my pets 🐾.  
 - **Code Mantra:** *"Simplicity is the soul of efficiency."* – A mantra to keep things fun and functional.
 
 ---
