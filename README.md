@@ -89,8 +89,3 @@ Got an idea or collab in mind? Slide into my DMs—I’m all ears (and code)!
 *Thanks for dropping by! Let’s build something awesome together.*  
 ![Code GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
----
-
-## 📌 Pinned Repositories
-
-Check out some of my favorite projects! ⬇️
