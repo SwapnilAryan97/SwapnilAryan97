@@ -49,7 +49,7 @@ Check out a snapshot of my coding adventures! (Stats update every 4 hours—tech
 [![GitHub achievement trophies and badges](https://github-profile-trophy.vercel.app/?username=SwapnilAryan97&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4)](https://github.com/SwapnilAryan97)
 
 ### 📈 Contribution Graph
-[![Contribution activity graph showing commit patterns over time](https://github-readme-activity-graph.vercel.app/graph?username=SwapnilAryan97&theme=react-dark&hide_border=true&area=true)](https://github.com/SwapnilAryan97)
+[![Contribution activity graph showing commit patterns over time](https://github-readme-activity-graph.cyclic.app/graph?username=SwapnilAryan97&theme=react-dark&hide_border=true&area=true)](https://github.com/SwapnilAryan97)
 
 </div>
 
