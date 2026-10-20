@@ -1,103 +1,67 @@
-# Hey, I’m Swapnil Sinha! 🚀
+<div align="center">
 
-![Profile Banner](https://media.giphy.com/media/OkJat1YNdoD3W/giphy.gif)  
-_Code. Create. Innovate. Have fun!_
+<img src="https://media.giphy.com/media/OkJat1YNdoD3W/giphy.gif" alt="Welcome" width="420" />
 
-I'm a curious coder who loves turning caffeine into code and dreaming up creative solutions. Welcome to my GitHub playground where innovation meets a dash of humor!
+# Hey, I'm Swapnil Sinha 👋
 
----
+**Founder of [Nuroversity](https://www.nuroversity.com) · AI/ML Engineer · New York**
 
-## 🛠️ My Tech Toolbox
+<a href="https://theswapnilsinha.com/"><img src="https://img.shields.io/badge/Portfolio-theswapnilsinha.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.nuroversity.com"><img src="https://img.shields.io/badge/Nuroversity-Founder-111827?style=for-the-badge" alt="Nuroversity" /></a>
+<a href="https://www.linkedin.com/in/swapnilaryansinha/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:swapnilsinhaworks@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-### Languages & Frameworks
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/LangGraph-00D084?style=flat-square&logo=graphql&logoColor=white" alt="LangGraph"/>
-  <img src="https://img.shields.io/badge/LLM-FF6B35?style=flat-square&logoColor=white" alt="LLM"/>
-  <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT"/>
-  <img src="https://img.shields.io/badge/Claude-9D4EDD?style=flat-square&logoColor=white" alt="Claude"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" alt="Render"/>
-  <img src="https://img.shields.io/badge/Agentic%20AI-6A5ACD?style=flat-square&logoColor=white" alt="Agentic AI"/>
 </div>
 
-### Tools & Platforms
+I'm **Swapnil Sinha** (Swapnil Aryan Sinha), founder of [Nuroversity](https://www.nuroversity.com), an AI learning platform for research, certifications, interviews and exams. I'm an AI/ML engineer in New York who has built infrastructure at **MongoDB** and **Amazon Bedrock**, where I co-architected backend services serving 20,000+ enterprise customers.
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-</div>
+More about me at **[theswapnilsinha.com](https://theswapnilsinha.com/)**.
 
----
+## 💼 Experience
+
+| | Role | Focus |
+|---|---|---|
+| 🍃 **MongoDB** | Software Engineer 3 | Distributed systems, database infrastructure |
+| 🎓 **[Nuroversity](https://www.nuroversity.com)** | Founder | AI learning platform: research, certifications, interviews, exams |
+| ☁️ **Amazon Bedrock (AWS)** | Software Development Engineer | LLM hosting platform at enterprise scale |
+
+**Education:** MS in Computer Science, New Jersey Institute of Technology · B.Tech in Information Technology, SRM University
+
+## 🛠️ Tech Toolbox
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,nodejs,mongodb,postgres,aws,docker,git,vscode&perline=12" alt="Python, TypeScript, JavaScript, React, Next.js, Node.js, MongoDB, PostgreSQL, AWS, Docker, Git, VS Code" />
+</p>
+
+**AI stack:**
+<img src="https://img.shields.io/badge/LLM%20agents-6A5ACD?style=flat-square" alt="LLM agents" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" alt="LangGraph" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=flat-square" alt="Amazon Bedrock" />
 
 ## 📈 GitHub Insights
 
-Check out a snapshot of my coding adventures! (Stats update every 4 hours—tech magic takes time!)
-
-<div align="left">
-  
-### 📊 GitHub Stats
-[![Swapnil's GitHub statistics showing commits, PRs, and contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SwapnilAryan97&theme=radical)](https://github.com/SwapnilAryan97)
-
-### 🔥 Contribution Streak
-
-[![GitHub contribution streak statistics](https://streak-stats.demolab.com/?user=SwapnilAryan97&theme=radical&hide_border=true)](https://github.com/SwapnilAryan97)
-
-### 💻 Most Used Languages
-
-[![Chart showing most used programming languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SwapnilAryan97&theme=radical)](https://github.com/SwapnilAryan97)
-
-### 🏆 Achievements
-
-<a href="https://github.com/SwapnilAryan97">
-  <img alt="Profile view counter" src="https://komarev.com/ghpvc/?username=SwapnilAryan97&color=blueviolet&style=flat-square&label=Profile+Views" />
-</a>
-<a href="https://github.com/SwapnilAryan97?tab=repositories&sort=stars">
-  <img alt="Total Stars" src="https://img.shields.io/github/stars/SwapnilAryan97?style=flat&label=Total%20Stars&color=success" />
-</a>
-<a href="https://github.com/SwapnilAryan97?tab=repositories">
-  <img alt="Total Repos" src="https://img.shields.io/badge/Repositories-Visit%20Profile-blue?style=flat" />
-</a>
-
-### 📈 Contribution Activity
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SwapnilAryan97&theme=gruvbox&hide_border=true&area=true)](https://github.com/SwapnilAryan97)
-
-## 🌐 Let’s Connect!
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/swapnilaryansinha/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:swapnilsinhaworks@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SwapnilAryan97&theme=tokyonight" alt="GitHub stats" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SwapnilAryan97&theme=tokyonight" alt="Most used languages" height="165" />
+</p>
+<p>
+  <img src="https://streak-stats.demolab.com/?user=SwapnilAryan97&theme=tokyonight&hide_border=true" alt="Contribution streak" height="165" />
 </p>
 
-Got an idea or collab in mind? Slide into my DMs—I’m all ears (and code)!
+## ✨ Off the Keyboard
 
----
+- ⚽ Football, 🧩 Rubik's cubes, 🏊 swimming, 🏃 jogging, 🎵 music, and 🐾 time with my pets
+- 💡 Code mantra: _"Simplicity is the soul of efficiency."_
 
-## ✨ A Bit About Me
+<div align="center">
 
-- **Forever Curious:** I’m always on the hunt for new tech trends and coding hacks.
-- **Side Quests:** When I'm not geeking out over code, you might find me playing football ⚽, solving Rubik's cubes 🧩, swimming 🏊, jogging 🏃, listening to music 🎵, or playing with my pets 🐾.
-- **Code Mantra:** _"Simplicity is the soul of efficiency."_ – A mantra to keep things fun and functional.
+**Got an idea or a collab in mind? [Say hi](mailto:swapnilsinhaworks@gmail.com) or visit [theswapnilsinha.com](https://theswapnilsinha.com/).**
 
----
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Cat typing" width="280" />
 
-## 🌟 What I’m Up To
+<img src="https://komarev.com/ghpvc/?username=SwapnilAryan97&color=7C3AED&style=flat-square&label=Profile+views" alt="Profile views" />
 
-- Crafting projects that make a difference.
-- Experimenting with cool tech like AI, web3, and cloud wizardry.
-- Sharing my journey and learning together with the dev community.
-
----
-
-_Thanks for dropping by! Let’s build something awesome together._  
-![Code GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+</div>
