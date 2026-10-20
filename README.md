@@ -60,8 +60,8 @@ More about me at **[theswapnilsinha.com](https://theswapnilsinha.com/)**.
 
 **Got an idea or a collab in mind? [Say hi](mailto:swapnilsinhaworks@gmail.com) or visit [theswapnilsinha.com](https://theswapnilsinha.com/).**
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Cat typing" width="280" />
+<p><img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Cat typing" width="280" /></p>
 
-<img src="https://komarev.com/ghpvc/?username=SwapnilAryan97&color=7C3AED&style=flat-square&label=Profile+views" alt="Profile views" />
+<p><img src="https://visitor-badge.laobi.icu/badge?page_id=SwapnilAryan97.SwapnilAryan97&left_text=Profile%20views&right_color=%237C3AED" alt="Profile views" /></p>
 
 </div>
